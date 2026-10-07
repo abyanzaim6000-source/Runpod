@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="RUNPOD" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>RUNPOD Fake Run</name>
+    <trkseg>
+      <trkpt lat="12.9716" lon="77.5946">
+        <time>2026-08-27T08:58:06Z</time>
+      </trkpt>
+      <trkpt lat="12.972" lon="77.595">
+        <time>2026-08-27T08:58:36Z</time>
+      </trkpt>
+      <trkpt lat="12.9724" lon="77.5954">
+        <time>2026-08-27T08:59:06Z</time>
+      </trkpt>
+      <trkpt lat="12.9728" lon="77.5958">
+        <time>2026-08-27T08:59:36Z</time>
+      </trkpt>
+      <trkpt lat="12.9732" lon="77.5962">
+        <time>2026-08-27T09:00:06Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

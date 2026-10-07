@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="RUNPOD" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>RUNPOD RUN_001</name>
+    <trkseg>
+      <trkpt lat="10.143882" lon="76.355181">
+        <time>2000-01-01T15:34:34Z</time>
+      </trkpt>
+      <trkpt lat="10.143893" lon="76.355186">
+        <time>2000-01-01T15:34:36Z</time>
+      </trkpt>
+      <trkpt lat="10.143912" lon="76.355208">
+        <time>2000-01-01T15:34:38Z</time>
+      </trkpt>
+      <trkpt lat="10.143908" lon="76.355211">
+        <time>2000-01-01T15:34:40Z</time>
+      </trkpt>
+      <trkpt lat="10.143901" lon="76.355212">
+        <time>2026-09-08T15:34:42Z</time>
+      </trkpt>
+      <trkpt lat="10.143922" lon="76.355241">
+        <time>2026-09-08T15:34:44Z</time>
+      </trkpt>
+      <trkpt lat="10.143934" lon="76.355262">
+        <time>2026-09-08T15:34:46Z</time>
+      </trkpt>
+      <trkpt lat="10.143935" lon="76.355287">
+        <time>2026-09-08T15:34:48Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
